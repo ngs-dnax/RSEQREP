@@ -1,0 +1,2 @@
+# RSEQREP
+*.sh file error
